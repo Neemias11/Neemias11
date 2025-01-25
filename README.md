@@ -1,1 +1,1 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fpixeljeff&psig=AOvVaw0HArXn_YA4mMlNGmA2PEWk&ust=1737851113699000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDY24TOj4sDFQAAAAAdAAAAABAE">
+<img src="https://media1.giphy.com/media/OkoScrMcY324r1j1HZ/source.gif">
