@@ -9,7 +9,7 @@ My Tools:
 
 <div align="center">
   
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,postman,prisma,nodejs,express,py,androidstudio,vscode,github,gradle&perline=4)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,,prisma,,express,py,vscode,github,)](https://skillicons.dev)
  
 </div>
 
